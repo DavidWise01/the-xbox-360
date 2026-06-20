@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The eDRAM",
+  "universe": "X36 · The eDRAM (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The eDRAM:X36:b92333⟧",
+  "carbon": "the-360-edram.carbon.tiff (TIFF)",
+  "silicon": "the-360-edram.silicon.png (PNG)",
+  "seal_sha256": "481d37bc812abaa1592937fbb42adab033938e80b21d3e58005154b3c1db9720",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

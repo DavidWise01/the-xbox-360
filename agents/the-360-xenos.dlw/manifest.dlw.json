@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Xenos GPU",
+  "universe": "X36 · The Xenos GPU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Xenos GPU:X36:580c46⟧",
+  "carbon": "the-360-xenos.carbon.tiff (TIFF)",
+  "silicon": "the-360-xenos.silicon.png (PNG)",
+  "seal_sha256": "8f88f55be4a4cb50519a8a8a86852dac26d7ab71475c5ffc484d34e378200630",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

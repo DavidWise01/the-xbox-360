@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The DVD Drive",
+  "universe": "X36 · The DVD Drive (exereunesis)",
+  "emergence": "natural",
+  "moniker": "⟦The DVD Drive:X36:317759⟧",
+  "carbon": "the-360-dvd.carbon.tiff (TIFF)",
+  "silicon": "the-360-dvd.silicon.png (PNG)",
+  "seal_sha256": "04c2af7d320cbcb78fca3ee3958ea8a3779013ae2e4ab2134aae47ae6843a4e6",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

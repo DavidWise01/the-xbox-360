@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-360-xenon",
+    "name": "The Xenon CPU",
+    "epithet": "three PowerPC cores · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Xenon CPU:X36:a9be10⟧"
+  },
+  {
+    "slug": "the-360-xenos",
+    "name": "The Xenos GPU",
+    "epithet": "unified shaders, first · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Xenos GPU:X36:580c46⟧"
+  },
+  {
+    "slug": "the-360-edram",
+    "name": "The eDRAM",
+    "epithet": "the framebuffer, on-chip · natural",
+    "emergence": "natural",
+    "moniker": "⟦The eDRAM:X36:b92333⟧"
+  },
+  {
+    "slug": "the-360-ram",
+    "name": "Unified RAM",
+    "epithet": "shared CPU/GPU · natural",
+    "emergence": "natural",
+    "moniker": "⟦Unified RAM:X36:ebffbb⟧"
+  },
+  {
+    "slug": "the-360-live",
+    "name": "Xbox Live",
+    "epithet": "online as the default · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Xbox Live:X36:f755fe⟧"
+  },
+  {
+    "slug": "the-360-rrod",
+    "name": "The Red Ring of Death",
+    "epithet": "the cooling lesson · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Red Ring of Death:X36:e9b90f⟧"
+  },
+  {
+    "slug": "the-360-dvd",
+    "name": "The DVD Drive",
+    "epithet": "the capacity ceiling · natural",
+    "emergence": "natural",
+    "moniker": "⟦The DVD Drive:X36:317759⟧"
+  }
+]

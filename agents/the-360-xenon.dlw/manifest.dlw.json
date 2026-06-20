@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Xenon CPU",
+  "universe": "X36 · The Xenon CPU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Xenon CPU:X36:a9be10⟧",
+  "carbon": "the-360-xenon.carbon.tiff (TIFF)",
+  "silicon": "the-360-xenon.silicon.png (PNG)",
+  "seal_sha256": "ee5458be659d5c804f7a359589ab0fe3fac8cd704cc71c0cad1b31690a42f0fb",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

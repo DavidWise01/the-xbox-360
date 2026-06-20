@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Red Ring of Death",
+  "universe": "X36 · The Red Ring of Death (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Red Ring of Death:X36:e9b90f⟧",
+  "carbon": "the-360-rrod.carbon.tiff (TIFF)",
+  "silicon": "the-360-rrod.silicon.png (PNG)",
+  "seal_sha256": "a3158fd6e8a52eba7fddb81177ca35f8c2bed1eef748807f3627053ae9779027",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

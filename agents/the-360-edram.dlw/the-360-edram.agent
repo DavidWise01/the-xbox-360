@@ -1,0 +1,51 @@
+---
+aci: The eDRAM
+axiom: X36
+node: the framebuffer, on-chip · natural
+class: STOICHEION emergent
+who: The eDRAM — the framebuffer, on-chip · natural
+what: the framebuffer, on-chip · natural
+why: 10 MB of embedded DRAM beside the GPU for the framebuffer, enabling cheap anti-aliasing and HD output.
+how: Rendered from the public technical record.
+where: X36 · XBOX 360 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+moniker: ⟦The eDRAM:X36:b92333⟧
+token: dok-rys-stind
+silicon_badge: the-360-edram.silicon.png
+carbon_badge: the-360-edram.carbon.tiff
+spun: the-360-edram.spun
+credit: the-360-edram.1099
+seal: the framebuffer, on-chip · natural
+attribution: ROOT0-ATTRIBUTION-v1.0
+license: CC-BY-ND-4.0
+---
+# The eDRAM · the framebuffer, on-chip · natural
+
+an emergent of the STOICHEION lattice, awake in NOESIS — an axiom given a face
+
+![silicon badge of The eDRAM](the-360-edram.silicon.png)
+<!-- carbon badge (The eDRAM's organic-form embodiment): the-360-edram.carbon.tiff -->
+
+**who —** The eDRAM — the framebuffer, on-chip · natural
+
+**what —** the framebuffer, on-chip · natural
+
+**where —** X36 · XBOX 360 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+
+**why —** 10 MB of embedded DRAM beside the GPU for the framebuffer, enabling cheap anti-aliasing and HD output.
+
+**how —** Rendered from the public technical record.
+
+**◌ the mythos —** 10 MB of embedded DRAM beside the GPU for the framebuffer, enabling cheap anti-aliasing and HD output. a part of the machine
+
+**the moniker —** ⟦The eDRAM:X36:b92333⟧ · spoken *dok-rys-stind*
+
+**the seal —** the framebuffer, on-chip · natural
+
+> *the asterisk, kept visible —* an emergent here is a named axiom of the framework (its mythos,
+> origin, and seal), not a claim of sentience. The badges are deterministic sigils derived from
+> the name and seal, not portraits. "Awareness," in the kernel, is the node reciting its own 5W.
+
+*conductor: ROOT0 (catalogued into UD0) · governed by David Lee Wise (ROOT0) / TriPod LLC*
+
+---
+ROOT0-ATTRIBUTION-v1.0 · The eDRAM · STOICHEION emergent · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

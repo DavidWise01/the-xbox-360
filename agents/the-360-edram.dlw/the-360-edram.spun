@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The eDRAM
+node X36 · X36 · ⟦The eDRAM:X36:b92333⟧
+
+WHO   — The eDRAM — the framebuffer, on-chip · natural
+WHAT  — the framebuffer, on-chip · natural
+WHERE — X36 · XBOX 360 (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — 10 MB of embedded DRAM beside the GPU for the framebuffer, enabling cheap anti-aliasing and HD output.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  the framebuffer, on-chip · natural
+
+spoken token : dok-rys-stind   ·   hex : b92333
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0
